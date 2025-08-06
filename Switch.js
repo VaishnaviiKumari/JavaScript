@@ -13,7 +13,6 @@
         {
             console.log("Else block");
         }
-
         nested if
         if(a<=b)
         {
@@ -32,7 +31,6 @@
         {
 
         }
-
         //switch
         switch(a)
         {
